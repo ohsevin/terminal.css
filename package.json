@@ -37,9 +37,9 @@
     "clean-css": "^4.2.1",
     "live-server": "^1.2.1",
     "mkdirp": "^0.5.1",
-    "postcss": "^7.0.18",
-    "serve": "^11.2.0",
-    "stylelint": "^11.0.0",
+    "postcss": "^8.4.31",
+    "serve": "^14.2.3",
+    "stylelint": "^16.6.1",
     "stylelint-config-standard": "^19.0.0"
   },
   "dependencies": {
